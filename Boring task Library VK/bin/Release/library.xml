@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Library xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Persons>
+    <Person PersonName="System.Collections.Generic.List`1[System.String]kibzun" Age="27" Sex="Male">
+      <Books>
+        <Book Title="BookTitle9" />
+        <Book Title="BookTitle2" />
+        <Book Title="BookTitle6" />
+        <Book Title="BookTitle3" />
+        <Book Title="BookTitle4" />
+        <Book Title="BookTitle10" />
+        <Book Title="BookTitle5" />
+      </Books>
+    </Person>
+    <Person PersonName="System.Collections.Generic.List`1[System.String]kibzun" Age="33" Sex="Female">
+      <Books>
+        <Book Title="BookTitle9" />
+        <Book Title="BookTitle7" />
+        <Book Title="BookTitle1" />
+        <Book Title="BookTitle2" />
+        <Book Title="BookTitle10" />
+        <Book Title="BookTitle3" />
+      </Books>
+    </Person>
+  </Persons>
+  <Books>
+    <Book Title="BookTitle1" />
+    <Book Title="BookTitle2" />
+    <Book Title="BookTitle3" />
+    <Book Title="BookTitle4" />
+    <Book Title="BookTitle5" />
+    <Book Title="BookTitle6" />
+    <Book Title="BookTitle7" />
+    <Book Title="BookTitle8" />
+    <Book Title="BookTitle9" />
+    <Book Title="BookTitle10" />
+  </Books>
+</Library>

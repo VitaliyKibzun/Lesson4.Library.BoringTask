@@ -1,0 +1,6 @@
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\Boring task Library VK\Boring task Library VK\bin\Debug\Boring task Library VK.exe.config
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\Boring task Library VK\Boring task Library VK\obj\Debug\Boring task Library VK.csprojResolveAssemblyReference.cache
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\Boring task Library VK\Boring task Library VK\bin\Debug\Boring task Library VK.exe
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\Boring task Library VK\Boring task Library VK\bin\Debug\Boring task Library VK.pdb
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\Boring task Library VK\Boring task Library VK\obj\Debug\Boring task Library VK.exe
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\Boring task Library VK\Boring task Library VK\obj\Debug\Boring task Library VK.pdb
