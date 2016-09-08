@@ -9,13 +9,13 @@ namespace Boring_task_Library_VK
     public class Generator
     {
         private static List<string> firstNamesMales = 
-            new List<string>(){"vitaliy"};
+            new List<string>(){"Vitaliy", "Igor", "Sergey"};
         
         private static List<string> firstNamesFemales =
-            new List<string>(){"irina"};
+            new List<string>(){"Irina", "Valia"};
 
         private static List<string> lastNames =
-            new List<string>(){"kibzun"};
+            new List<string>(){"Kibzun", "Raetskiy"};
 
         private static Random random = new Random();
 

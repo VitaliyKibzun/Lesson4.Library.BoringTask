@@ -1,21 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Library xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Persons>
-    <Person PersonName="System.Collections.Generic.List`1[System.String]kibzun" Age="47" Sex="Male">
+    <Person PersonName="System.Collections.Generic.List`1[System.String]Kibzun" Age="41" Sex="Male">
       <Books>
+        <Book Title="BookTitle7" />
         <Book Title="BookTitle1" />
-        <Book Title="BookTitle4" />
-        <Book Title="BookTitle10" />
-        <Book Title="BookTitle3" />
-        <Book Title="BookTitle5" />
-        <Book Title="BookTitle8" />
       </Books>
     </Person>
-    <Person PersonName="System.Collections.Generic.List`1[System.String]kibzun" Age="29" Sex="Female">
+    <Person PersonName="System.Collections.Generic.List`1[System.String]Kibzun" Age="78" Sex="Male">
+      <Books>
+        <Book Title="BookTitle2" />
+        <Book Title="BookTitle10" />
+        <Book Title="BookTitle3" />
+        <Book Title="BookTitle8" />
+        <Book Title="BookTitle1" />
+      </Books>
+    </Person>
+    <Person PersonName="System.Collections.Generic.List`1[System.String]Kibzun" Age="47" Sex="Male">
+      <Books>
+        <Book Title="BookTitle6" />
+        <Book Title="BookTitle3" />
+        <Book Title="BookTitle8" />
+        <Book Title="BookTitle10" />
+        <Book Title="BookTitle4" />
+        <Book Title="BookTitle7" />
+      </Books>
+    </Person>
+    <Person PersonName="System.Collections.Generic.List`1[System.String]Kibzun" Age="37" Sex="Female">
       <Books>
         <Book Title="BookTitle9" />
-        <Book Title="BookTitle5" />
         <Book Title="BookTitle6" />
+        <Book Title="BookTitle2" />
+      </Books>
+    </Person>
+    <Person PersonName="System.Collections.Generic.List`1[System.String]Kibzun" Age="39" Sex="Female">
+      <Books>
+        <Book Title="BookTitle2" />
+        <Book Title="BookTitle5" />
+        <Book Title="BookTitle1" />
       </Books>
     </Person>
   </Persons>

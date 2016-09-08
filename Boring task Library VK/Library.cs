@@ -74,8 +74,8 @@ namespace Boring_task_Library_VK
                 .Where(_minUsedBook => _minUsedBook.Usage == minUsage)
                 .Select(bookTitle => bookTitle.Book.Title)
                 .ToArray();
-            Console.WriteLine("Maximum Used Book: {0}", String.Join(",", maxUsedBook));
-            Console.WriteLine("Minimum Used Book: {0}", String.Join(",", minUsedBook));
+            Console.WriteLine("Maximum Used Book: {0} (amount of books: {1})", String.Join(", ", maxUsedBook), maxUsage);
+            Console.WriteLine("Minimum Used Book: {0} (amount of books: {1})", String.Join(", ", minUsedBook), minUsage);
         }
     }
 }
